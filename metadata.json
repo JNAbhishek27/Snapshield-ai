@@ -1,0 +1,6 @@
+{
+  "name": "SnapShield AI",
+  "description": "Privacy-first document intelligence assistant designed for Snapdragon-powered HP PCs with on-device PII detection and redaction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
